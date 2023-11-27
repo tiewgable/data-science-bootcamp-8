@@ -14,4 +14,5 @@ I learn a lot of stuff related to data science skills. This bootcamp
 - Essential Machine Learning for Data Analyst
 - Dashboard
 
+  You can find me on linked-in : https://www.linkedin.com/in/natthapol-imphong-b79512250
   
